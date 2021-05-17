@@ -8,6 +8,7 @@ public class Sprint1projectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Sprint1projectApplication.class, args);
+		System.out.println("welcome to git");
 	}
 
 }
